@@ -1,0 +1,6 @@
+{
+  "name": "Inkana Borojó - Landing Comercial",
+  "description": "Landing page comercial para Inkana Borojó (550 ml). Pedidos directos por WhatsApp, fidelidad al empaque original y datos configurables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
